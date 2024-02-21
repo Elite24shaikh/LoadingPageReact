@@ -8,15 +8,3 @@
 
 </div>
 
-# :notebook_with_decorative_cover: Table of Contents
-
-- [About the Project](#star2-about-the-project)
-
-
-## :star2: About the Project
-### :space_invader: Tech Stack
-<details> <summary>Client</summary> <ul>
-<li><a href="">React</a></li>
-<li><a href="">Tailwind</a></li>
-<li><a href="">Gsap</a></li>
-</ul> </details>
